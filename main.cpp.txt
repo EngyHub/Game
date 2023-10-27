@@ -1,1 +1,1 @@
-cout <<"Hello GitHub \n";
+cout <<"Hello GitHub";
